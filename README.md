@@ -1,4 +1,4 @@
-# Spotify
+# Musify
 
 Este proyecto es realizado con el fin de introducirse en las tecnologías de desarrollo web: HTML 5, CSS 4 y Javascript (ES8). Como también en el uso de librerías como React.
 Para este fin se decide trabajar en una aplicación web de características similares a la  conocida Spotify.
